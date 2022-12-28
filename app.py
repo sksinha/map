@@ -4,4 +4,4 @@ import geopandas as gpd
 import pyproj
 import plotly.graph_objs as go
 # reading in the polygon shapefile
-polygon = gpd.read_file(r"\Downloads\CityBoundaries.shp")
+polygon = gpd.read_file(r"\India_Country_Boundary.shp")
